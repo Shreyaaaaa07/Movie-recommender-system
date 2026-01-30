@@ -1,3 +1,7 @@
-venv
-similarity.pkl
 *.pkl
+.pickle
+.zip
+.h5
+.pytorch
+.onnx
+.joblib
